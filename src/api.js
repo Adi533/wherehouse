@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyCAdyniYRoNZ7lFXGEUd9_EbvVBcxOma6c';
-const SHEET_ID = '1OOgwbnliog4CYujyhpcSsYtNK4XRaHnie_EQKKf6svE';
+const API_KEY = 'YOUR API KEY GOES HERE';
+const SHEET_ID = 'YOUR SHEET ID GO THERE';
 const RANGE = 'Sheet1!A1:D10'; 
 
 export const fetchData = async () => {
