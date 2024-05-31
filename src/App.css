@@ -1,0 +1,44 @@
+.App {
+    text-align: center;
+    background-color: #282c34;
+    height: 100vh;
+  }
+  
+  .App-header {
+    
+    padding: 20px;
+    color: white;
+  }
+  
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  .btn{
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(226, 226, 226);
+    border-radius: 10px;
+    border: none;
+  }
+
+  
+form {
+    margin: 20px auto;
+  }
+  
+  input {
+    margin: 0 5px;
+    padding: 5px;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 5px 10px;
+  }
